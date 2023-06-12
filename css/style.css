@@ -33,6 +33,7 @@ color: #8D81FF;
 	color: #4E6FAE;
 }
 p {
+	font-family: 'GL Kirovi';
 	font-style: normal;
 	font-weight: 400;
 	font-size: 16px;
@@ -46,7 +47,7 @@ img {
 }
 article { 
 	display: inline-block;
-	width: 778px;
+	width: 760px;
 	height: 353px;
 	margin-left: 66px;
 	vertical-align: top;
@@ -86,6 +87,8 @@ nav {
 	display: inline-block;
 	background-color: #5012D5;
 	vertical-align: middle;
+	margin-left: 18px;
+	margin-right: 18px;
 }
 .news {
 	display: inline-block;
@@ -119,6 +122,10 @@ nav {
 
  footer {
  	margin-top: 143px;
+ }
+
+ .footer3 {
+ 	margin-left: 96px;
  }
  .მისამართი {
  	width: 1660px ;
@@ -186,6 +193,8 @@ body {
 .card-3 {
 	display: inline-block;
 	vertical-align: top;
+	margin-top: 30px;
+	margin-left: 19px;
 	
 }
 .card-2 {
@@ -194,6 +203,9 @@ body {
 	font-style: normal;
 	font-weight: 400;
 	font-size: 16px;
+	width: 335px;
+	margin-top: 30px;
+
 	
 
 	color: #7E8898;
@@ -229,4 +241,21 @@ a {
 	font-weight: 400;
 	font-size: 20px;
 }
+.container1 {
+	width: 1291px;
+	margin: 0 auto;
+
+}
+.container2 {
+	width: 1060px;
+	margin: 0 auto;
+}
+
+.line {
+	margin-left: 41px;
+	margin-right: 41px;
+}
+
+
  
+
