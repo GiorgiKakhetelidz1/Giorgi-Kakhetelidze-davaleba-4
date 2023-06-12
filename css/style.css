@@ -15,19 +15,20 @@
 	color: #84FF81;
 }
 .month {
+	font-family: 'BPG Nino Mkhedruli';
 	margin-bottom: 8px;
 	font-style: normal;
 	font-weight: 400;
-	
+	font-size: 32px;
 	line-height: 29px;
-
-color: #8D81FF;
+	color: #8D81FF;
 }
 
 .title {
 	margin-bottom: 13px;
 	font-style: normal;
 	font-weight: 700;
+	font-size: 20px;
 	line-height: 24px;
 
 	color: #4E6FAE;
@@ -182,9 +183,13 @@ body {
 
 }
 .card-1 {
+	
+	font-family: 'Roboto';
 	font-style: normal;
 	font-weight: 400;
 	font-size: 20px;
+	line-height: 23px;
+
 	
 
 	color: #3F4145;
@@ -200,9 +205,13 @@ body {
 .card-2 {
 	display: inline-block;
 	vertical-align: top;
+	font-family: 'Roboto';
 	font-style: normal;
 	font-weight: 400;
 	font-size: 16px;
+	line-height: 19px;
+
+
 	width: 335px;
 	margin-top: 30px;
 
