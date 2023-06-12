@@ -1,0 +1,232 @@
+.daybox {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	padding: 8px 3px 8px 11px;
+	margin-bottom: 18px;
+	margin-top: 155px;
+}
+.day {
+	font-style: normal;
+    font-weight: 400;
+	font-size: 24px;
+	
+
+	color: #84FF81;
+}
+.month {
+	margin-bottom: 8px;
+	font-style: normal;
+	font-weight: 400;
+	
+	line-height: 29px;
+
+color: #8D81FF;
+}
+
+.title {
+	margin-bottom: 13px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 24px;
+
+	color: #4E6FAE;
+}
+p {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	
+
+	color: #4E6FAE;
+}
+img { 
+	display: inline-block;
+	vertical-align: top;
+}
+article { 
+	display: inline-block;
+	width: 778px;
+	height: 353px;
+	margin-left: 66px;
+	vertical-align: top;
+}
+
+
+nav {
+	display: inline-block;
+}
+
+.მთავარი {
+	display: inline-block;
+	margin-left:60px;
+	
+	
+}
+.სიახლეები {
+	display: inline-block;
+	margin-left: 87px;
+	
+}
+.კონტაქტი {
+	display: inline-block;
+	margin-left: 81px;
+	
+}
+
+.html {
+	margin-top: 85px ;
+	margin-bottom: 120px;
+	display: block;
+
+}
+.line-1 {
+	width: 2px;
+	height: 24px;
+	display: inline-block;
+	background-color: #5012D5;
+	vertical-align: middle;
+}
+.news {
+	display: inline-block;
+	vertical-align: middle;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+
+
+	color: #4E6FAE;
+}
+.news-1 {
+	display: inline-block;
+	vertical-align: middle;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 26px;
+
+
+	color: #4E6FAE;
+
+}
+
+.logo {
+	vertical-align: middle;
+}
+
+ li {
+ 	vertical-align: middle;
+ }
+
+ footer {
+ 	margin-top: 143px;
+ }
+ .მისამართი {
+ 	width: 1660px ;
+ 	height: 735px;
+ 	background-color: #E7E7E7;
+ 	margin-top: 31px;
+
+ }
+ span {
+ 	font-weight: 400;
+	font-size: 20px;
+ 	color:#7E8898;
+
+ }
+.smalldiv {
+	display: inline-block;
+	vertical-align: top;
+	margin: 93px;
+	margin-left: 162px;
+
+}
+.map {
+	display: inline-block;
+	margin: 93px 40px 199px 40px;
+	vertical-align: top;
+}
+
+body {
+	padding-top: 41px;
+}
+
+.first{
+	width: 500px ;
+	height:192px ;
+	background-color:  #E7E7E7;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 26px;
+	padding-top: 21px;
+	padding-right: 14px;
+	padding-left: 23px;
+}
+.second{
+	width: 500px;
+	height: 192px;
+	background-color: #E7E7E7;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 26px;
+	margin-left: 52px;
+	padding-top: 21px;
+	padding-right: 14px;
+	padding-left: 23px;
+
+}
+.card-1 {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	
+
+	color: #3F4145;
+
+}
+.card-3 {
+	display: inline-block;
+	vertical-align: top;
+	
+}
+.card-2 {
+	display: inline-block;
+	vertical-align: top;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	
+
+	color: #7E8898;
+	
+}
+a {
+	color: #8D81FF;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+
+}
+
+.con {
+	ont-style: normal;
+	font-weight: 700;
+	font-size: 36px;
+	
+	color: #4E6FAE;
+	}
+.info {
+	font-weight: 400;
+	font-size: 20px;
+	margin-top: 27px;
+	margin-bottom: 23px;
+}
+.info2 {
+	font-weight: 400;
+	font-size: 20px;
+	margin-bottom: 11px ;
+}
+.info3 {
+	font-weight: 400;
+	font-size: 20px;
+}
+ 
